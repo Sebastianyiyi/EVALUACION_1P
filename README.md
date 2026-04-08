@@ -45,16 +45,16 @@
 
 ### ¿Cómo realizó el fork?
 El fork se realizó yendo al repositorio de la cuenta del ingeniero, y aplastando en el botón de *Fork*
-![Fork] /images/Fork 1.png 
+![Fork](images/Fork 1.png) 
 
 ### ¿Cómo se realizó el clone del fork?
 Una vez hecho un fork del repositorio que se deseaba, nos va a redirigir al repositorio copiado a nuestra cuenta de github, ahí tendremos que copiar el enlace HTTPS que nos aparece al momento de pone en la pestañita de *Code*, para posteriormente irnos a la terminal de bash y poner el comando *git clone url_copiada*.
-![Clonar] /images/Clonar repositorio.png
-![git-clone] /images/git clone.png
+![Clonar](/images/Clonar repositorio.png)
+![git-clone](images/git clone.png)
 
 ### ¿Cómo se verificó que se estaba trabajando sobre el fork y no sobre el repositorio original?
 Se verificó mediante el comando de *git remote -v* el cual nos muestra en que entorno estamos trabajando, en este caso trabajamos sobre el nuestro.
-![git-remote] /images/git remote.png
+![git-remote](images/git remote.png)
 
 ## Pregunta 2 (1 punto)
 
