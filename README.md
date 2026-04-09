@@ -75,6 +75,19 @@ Se verificó mediante el comando de *git remote -v* el cual nos muestra en que e
 
 **📝 Respuesta:**
 
+- Crear archivo .gitignore
+[!gitignore](/images/gitignore.png)
+
+- Configurar archivos excluidos
+[!gitignore-config](/images/gitignore-config.png)
+
+- Commit 01
+[!commit1](/images/commit1.png)
+
+- Creación de archivos para la prueba del gitignore
+[!comprobacion](/images/comprobacion.png)
+
+[!ls](/images/ls-lsdoc.png)
 
 ## Pregunta 3 (2 puntos)
 
