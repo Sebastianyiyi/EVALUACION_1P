@@ -3,8 +3,8 @@
 ### Carrera de [Nombre de la Carrera]  
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** ___________________________  
-**Fecha:** ___________________  
+**Nombre del Estudiante:** Sebastián Acaro
+**Fecha:** 08/04/2026
 
 ---
 
@@ -133,6 +133,12 @@ Comprobación de la configuración del gitignore, se puede ver que cuando se usa
 Se inicia git flow con el comando *git flow init*
 
 ![git-flow-init](/images/git-flow-init.png)
+
+Se crea rama de tipo feature con el comando *git flow feature start ingresar-encabezado*
+
+
+
+
 
 
 
