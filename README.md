@@ -147,12 +147,6 @@ Las ventajas de usar git flow es la automatización de creación de ramas, elimi
 
 
 
-
-
-
-
-
-
 ## Pregunta 4 (2 puntos)
 
 **Trabajo con Issues y Pull Requests**
