@@ -75,9 +75,6 @@ Se verificó mediante el comando de *git remote -v* el cual nos muestra en que e
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu explicación y evidencia para la Pregunta 2 -->
-
----
 
 ## Pregunta 3 (2 puntos)
 
