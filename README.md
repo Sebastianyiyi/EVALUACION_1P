@@ -179,9 +179,9 @@ Las ventajas de usar git flow es la automatización de creación de ramas, elimi
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu respuesta completa a la Pregunta 4 -->
+- ¿Qué es un Pull Request y cuál es su función dentro de un flujo de trabajo colaborativo con Git y GitHub?
 
----
+Un Pull Request (PR) es una solicitud formal para fusionar los cambios de una rama hacia otra dentro de GitHub. Su función en un flujo colaborativo es permitir que el equipo revise, discuta y apruebe el código antes de integrarlo a la rama.
 
 ## Pregunta 5 (2 puntos)
 
