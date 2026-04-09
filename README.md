@@ -130,9 +130,12 @@ Comprobación de la configuración del gitignore, se puede ver que cuando se usa
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu respuesta completa a la Pregunta 3 -->
+Se inicia git flow con el comando *git flow init*
 
----
+![git-flow-init](/images/git-flow-init.png)
+
+
+
 
 ## Pregunta 4 (2 puntos)
 
