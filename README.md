@@ -143,6 +143,8 @@ Primero se realizó la iniciación del git flow con el comando *git flow init* e
 
 Las ventajas de usar git flow es la automatización de creación de ramas, eliminación y la fusión entre estas.
 
+![feature-finish](/images/feature-finish.png)
+
 
 
 
