@@ -77,22 +77,22 @@ Se verificó mediante el comando de *git remote -v* el cual nos muestra en que e
 
 ### Numeral 01 
 Crear archivo .gitignore
-[!gitignore](/images/gitignore.png)
+![gitignore](/images/gitignore.png)
 
 Configurar archivos excluidos
-[!gitignore-config](/images/gitignore-config.png)
+![gitignore-config](/images/gitignore-config.png)
 
 Commit 01
-[!commit1](/images/commit1.png)
+![commit1](/images/commit1.png)
 
 ### Numeral 02
 Creación de archivos para la prueba del gitignore
-[!comprobacion](/images/comprobacion.png)
+![comprobacion](/images/comprobacion.png)
 
-[!ls](/images/ls-lsdoc.png)
+![ls](/images/ls-lsdoc.png)
 
 Commit 02
-[!commit2](/images/commit2.png)
+![commit2](/images/commit2.png)
 
 ### Numeral 03
 La importancia del archivo *gitignore* es muy importante puesto que aquí va todo lo que no se quiere mostrar en el repositorio remot, esto sirve para guardar credenciales, tokens, archivos de configuración.
